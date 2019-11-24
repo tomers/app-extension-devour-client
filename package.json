@@ -1,0 +1,22 @@
+{
+  "name": "quasar-app-extension-devour-client",
+  "version": "0.0.1",
+  "description": "JSON API client for Quasar",
+  "author": "Tomer Shalev <shalev.tomer@gmail.com>",
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomers/app-extension-devour-client.git"
+  },
+  "bugs": "https://github.com/tomers/app-extension-devour-client/issues",
+  "homepage": "",
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  }
+}
